@@ -74,6 +74,8 @@ article{
     padding: 50px;
 }
 .head{
+    position: sticky;
+    top: 1px;
     padding: 20px;
 }
 .next{
